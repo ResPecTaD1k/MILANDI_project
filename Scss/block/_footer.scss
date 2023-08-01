@@ -1,0 +1,27 @@
+.site-footer{
+    .inner__container{
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+    }
+}
+
+.footer__proImera{
+    width: 200px;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer__text{
+    font-weight: 400;
+    margin-top: 16px;
+    cursor: pointer;
+}
+
+.footer__icon{
+    width: 96px;
+    height: 96px;
+    margin-top: 15px;
+}
